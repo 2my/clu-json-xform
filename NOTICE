@@ -1,0 +1,7 @@
+    Tommys command-line utility for json transformation
+    Copyright 2013 Tommy Skodje (Antares Gruppen AS - http://www.antares.no)
+
+This product includes mostly software developed at Antares Gruppen AS (http://www.antares.no)
+
+The pom.xml file lists other dependencies, with urls, that may be of interest if you are into building code yourself.
+
